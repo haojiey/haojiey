@@ -18,4 +18,4 @@ https://github.com/haojiey/Interview-planning
 ### 业余时间输出文章，干货满满 （持续输出中...）
 https://github.com/haojiey/output-article
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=haojiey&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=haojiey&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=false" />
